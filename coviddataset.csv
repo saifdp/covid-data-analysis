@@ -1,0 +1,100 @@
+Patient Id,Age,Gender,hospital name,Date,Time,area,city,state,status
+P1,33,1,SSM,1/8/2020,6.30 pm,Vidya Nagar,Dvg,Kar,Pos
+P10,17,1,City Medical,1/8/2020,1.20 pm,Anjaneya Badavane,Dvg,Kar,Pos
+P100,65,1,Latha Nursing home,1/8/2020,11.25 am,Nituvalli,Dvg,Kar,Neg
+P1000,37,1,SSM,1/8/2020,10.55 am,Saraswathi nagar,Dvg,Kar,Neg
+P101,62,1,City Medical,1/8/2020,12.14 am,Vidya Nagar,Dvg,Kar,Pos
+P102,35,1,Latha Nursing home,1/8/2020,10.16 am,Anjaneya Badavane,Dvg,Kar,Pos
+P103,52,2,Arikya,1/8/2020,3.44 pm,Nituvalli,Dvg,Kar,Neg
+P104,28,2,Latha Nursing home,1/8/2020,4.20 pm,Saraswathi nagar,Dvg,Kar,Neg
+P105,35,2,Arikya,1/8/2020,7.00 am,Shekarappa nagar,Dvg,Kar,Neg
+P106,46,1,SSM,1/8/2020,8.40 am,Nituvalli,Dvg,Kar,Pos
+P107,44,1,City Medical,1/8/2020,10.45 am,Vidya Nagar,Dvg,Kar,Pos
+P108,64,2,Latha Nursing home,1/8/2020,12.34 am,Anjaneya Badavane,Dvg,Kar,Neg
+P109,39,2,Arikya,1/8/2020,10.26 am,Nituvalli,Dvg,Kar,Neg
+P11,34,1,SSM,1/8/2020,8.48 an,Saraswathi nagar,Dvg,Kar,Neg
+P110,27,2,City Medical,1/8/2020,4.20 pm,Vidya Nagar,Dvg,Kar,Pos
+P111,73,1,Latha Nursing home,1/8/2020,7.00 am,Anjaneya Badavane,Dvg,Kar,Pos
+P112,17,1,Arikya,1/8/2020,8.55 am,Nituvalli,Dvg,Kar,Neg
+P113,34,1,Latha Nursing home,1/8/2020,9.25am,Vidya Nagar,Dvg,Kar,Neg
+P114,36,1,Arikya,1/8/2020,10.55am,Anjaneya Badavane,Dvg,Kar,Neg
+P115,14,1,SSM,1/8/2020,12.25am,Nituvalli,Dvg,Kar,Neg
+P116,24,1,City Medical,1/8/2020,1.47 am,Saraswathi nagar,Dvg,Kar,Neg
+P117,53,2,Latha Nursing home,1/8/2020,4.21 pm,Vidya Nagar,Dvg,Kar,Pos
+P118,62,1,Arikya,1/8/2020,5.05 pm,Anjaneya Badavane,Dvg,Kar,Pos
+P119,29,2,City Medical,1/8/2020,6.32 pm,Nituvalli,Dvg,Kar,Neg
+P12,36,1,Latha Nursing home,1/8/2020,5.48 pm,Saraswathi nagar,Dvg,Kar,Neg
+P120,65,1,Arikya,1/8/2020,6.47 pm,Shekarappa nagar,Dvg,Kar,Pos
+P121,38,2,SSM,1/8/2020,7.40 am,Vidya Nagar,Dvg,Kar,Pos
+P122,19,1,SSM,1/8/2020,8.40 am,Anjaneya Badavane,Dvg,Kar,Neg
+P123,33,1,City Medical,1/8/2020,8.55 am,Nituvalli,Dvg,Kar,Neg
+P124,28,2,Latha Nursing home,1/8/2020,9.27am,Saraswathi nagar,Dvg,Kar,Pos
+P125,35,2,Arikya,1/8/2020,10.55am,Vidya Nagar,Dvg,Kar,Pos
+P126,42,1,SSM,1/8/2020,10.30 am,Anjaneya Badavane,Dvg,Kar,Pos
+P127,32,2,City Medical,1/8/2020,1.47 am,Nituvalli,Dvg,Kar,Neg
+P128,33,1,Latha Nursing home,1/8/2020,4.21 pm,Saraswathi nagar,Dvg,Kar,Neg
+P129,25,2,SSM,1/8/2020,5.05 pm,Shekarappa nagar,Dvg,Kar,Pos
+P13,14,1,City Medical,1/8/2020,8.55 am,Nituvalli,Dvg,Kar,Pos
+P130,27,2,Latha Nursing home,1/8/2020,9.25am,Nituvalli,Dvg,Kar,Neg
+P131,28,1,Arikya,1/8/2020,10.55am,Vidya Nagar,Dvg,Kar,Neg
+P132,32,1,Latha Nursing home,1/8/2020,12.25am,Anjaneya Badavane,Dvg,Kar,Pos
+P133,45,2,Arikya,1/8/2020,1.47 am,Nituvalli,Dvg,Kar,Pos
+P134,27,2,Latha Nursing home,1/8/2020,4.21 pm,Saraswathi nagar,Dvg,Kar,Neg
+P135,26,2,SSM,1/8/2020,5.05 pm,Vidya Nagar,Dvg,Kar,Neg
+P136,48,1,City Medical,1/8/2020,3.25 pm,Anjaneya Badavane,Dvg,Kar,Pos
+P137,17,2,SSM,1/8/2020,5.12 pm,Vidya Nagar,Dvg,Kar,Neg
+P138,22,1,City Medical,1/8/2020,6.25 pm,Anjaneya Badavane,Dvg,Kar,Neg
+P139,42,1,Latha Nursing home,1/8/2020,9.55 am,Nituvalli,Dvg,Kar,Neg
+P14,24,1,Arikya,1/8/2020,4.55 pm,Saraswathi nagar,Dvg,Kar,Pos
+P140,35,1,SSM,1/8/2020,8.55 am,Vidya Nagar,Dvg,Kar,Pos
+P141,24,2,City Medical,1/8/2020,9.48 am,Anjaneya Badavane,Dvg,Kar,Neg
+P142,38,2,Latha Nursing home,1/8/2020,10.15 am,Nituvalli,Dvg,Kar,Neg
+P143,18,2,SSM,1/8/2020,12.21 pm,Saraswathi nagar,Dvg,Kar,Pos
+P144,23,2,City Medical,1/8/2020,12.55 pm,Shekarappa nagar,Dvg,Kar,Pos
+P145,24,2,Latha Nursing home,1/8/2020,2.25 pm,Vidya Nagar,Dvg,Kar,Neg
+P146,35,2,SSM,1/8/2020,3.56 pm,Anjaneya Badavane,Dvg,Kar,Neg
+P147,38,2,City Medical,1/8/2020,6.25 pm,Nituvalli,Dvg,Kar,Pos
+P148,47,2,SSM,1/8/2020,9.55 am,Saraswathi nagar,Dvg,Kar,Neg
+P149,52,2,City Medical,1/8/2020,4.55 pm,Vidya Nagar,Dvg,Kar,Neg
+P15,53,2,Latha Nursing home,1/8/2020,8.55 am,Anjaneya Badavane,Dvg,Kar,Neg
+P150,44,2,Arikya,1/8/2020,9.48 am,Nituvalli,Dvg,Kar,Pos
+P151,38,2,City Medical,1/8/2020,10.15 am,Saraswathi nagar,Dvg,Kar,Pos
+P152,62,2,Latha Nursing home,1/8/2020,6.47 pm,Shekarappa nagar,Dvg,Kar,Neg
+P153,61,2,SSM,1/8/2020,7.40 am,Nituvalli,Dvg,Kar,Neg
+P154,55,1,City Medical,1/8/2020,8.40 am,Saraswathi nagar,Dvg,Kar,Pos
+P155,45,2,Latha Nursing home,1/8/2020,8.55 am,Vidya Nagar,Dvg,Kar,Pos
+P156,38,1,SSM,1/8/2020,9.27am,Anjaneya Badavane,Dvg,Kar,Neg
+P157,44,1,City Medical,1/8/2020,10.55am,Nituvalli,Dvg,Kar,Neg
+P158,45,2,Latha Nursing home,1/8/2020,10.30 am,Saraswathi nagar,Dvg,Kar,Pos
+P159,33,2,Arikya,1/8/2020,1.47 am,Shekarappa nagar,Dvg,Kar,Neg
+P16,62,1,SSM,1/8/2020,4.21 pm,Vidya Nagar,Dvg,Kar,Pos
+P160,32,2,City Medical,1/8/2020,5.05 pm,Anjaneya Badavane,Dvg,Kar,Pos
+P161,44,1,SSM,1/8/2020,8.55 am,Nituvalli,Dvg,Kar,Neg
+P162,62,1,City Medical,1/8/2020,9.25am,Saraswathi nagar,Dvg,Kar,Neg
+P163,38,2,SSM,1/8/2020,10.55am,Vidya Nagar,Dvg,Kar,Pos
+P164,33,1,City Medical,1/8/2020,12.25am,Anjaneya Badavane,Dvg,Kar,Pos
+P165,22,1,Latha Nursing home,1/8/2020,1.47 am,Nituvalli,Dvg,Kar,Neg
+P166,35,1,SSM,1/8/2020,4.21 pm,Vidya Nagar,Dvg,Kar,Neg
+P167,23,1,City Medical,1/8/2020,7.00 am,Anjaneya Badavane,Dvg,Kar,Pos
+P168,48,1,Latha Nursing home,1/8/2020,8.40 am,Nituvalli,Dvg,Kar,Neg
+P169,46,2,Arikya,1/8/2020,10.45 am,Saraswathi nagar,Dvg,Kar,Neg
+P17,29,2,Latha Nursing home,1/8/2020,12.34 am,Vidya Nagar,Dvg,Kar,Neg
+P170,52,2,Arikya,1/8/2020,10.26 am,Anjaneya Badavane,Dvg,Kar,Pos
+P171,52,1,City Medical,1/8/2020,8.48 an,Nituvalli,Dvg,Kar,Pos
+P172,48,2,Latha Nursing home,1/8/2020,4.20 pm,Saraswathi nagar,Dvg,Kar,Neg
+P173,36,2,SSM,1/8/2020,7.00 am,Shekarappa nagar,Dvg,Kar,Neg
+P174,31,2,City Medical,1/8/2020,8.55 am,Nituvalli,Dvg,Kar,Pos
+P175,38,2,Latha Nursing home,1/8/2020,9.25am,Saraswathi nagar,Bng,Kar,Pos
+P176,35,1,SSM,1/8/2020,10.55am,Vidya Nagar,Dvg,Kar,Neg
+P177,44,1,City Medical,1/8/2020,12.25am,Anjaneya Badavane,Dvg,Kar,Neg
+P178,33,1,Latha Nursing home,1/8/2020,1.47 am,Nituvalli,Dvg,Kar,Pos
+P179,45,1,Arikya,1/8/2020,4.21 pm,Saraswathi nagar,Dvg,Kar,Neg
+P18,65,1,Latha Nursing home,1/8/2020,5.05 pm,Shekarappa nagar,Dvg,Kar,Pos
+P180,53,1,SSM,1/8/2020,6.32 pm,Nituvalli,Dvg,Kar,Pos
+P181,35,2,City Medical,1/8/2020,6.30 pm,Anjaneya Badavane,Dvg,Kar,Neg
+P182,46,2,Latha Nursing home,1/8/2020,1.20 pm,Nituvalli,Dvg,Kar,Neg
+P183,27,1,Arikya,1/8/2020,11.25 am,Saraswathi nagar,Dvg,Kar,Pos
+P184,26,1,SSM,1/8/2020,10.55 am,Vidya Nagar,Dvg,Kar,Pos
+P185,37,1,City Medical,1/8/2020,12.14 am,Anjaneya Badavane,Dvg,Kar,Neg
+P186,28,1,Latha Nursing home,1/8/2020,10.16 am,Nituvalli,Dvg,Kar,Neg
+P187,19,1,Arikya,1/8/2020,3.44 pm,Saraswathi nagar,Bng,Kar,Pos
